@@ -2,8 +2,10 @@
 
 Inclure les deux le conflit !!!
 
+I'm here A and B
+
 <<<<<<< HEAD
-I'm here B
+Another conflict B
 =======
-I'm here A
->>>>>>> af7a4cda6ccd59ab173c652b898c80052ae4516d
+Another conflict A   
+>>>>>>> 7e317996406c08a59e24bad5cc050bb5fdf6c81e
